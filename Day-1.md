@@ -1,47 +1,62 @@
 # ☁️ What is Cloud?
 
-Cloud computing is the on-demand delivery of computing resources—like servers, storage, databases, networking, software, and analytics—over the internet, with pay-as-you-go pricing.
+**Cloud computing** is the **on-demand delivery of computing resources**—like servers, storage, databases, networking, software, and analytics—**over the internet**, with **pay-as-you-go pricing**.
 
-Instead of buying, owning, and maintaining physical data centers or servers, you can rent computing power and storage from a cloud provider like Amazon Web Services (AWS).
+Instead of buying, owning, and maintaining physical data centers or servers, you can rent computing power and storage from a cloud provider like **Amazon Web Services (AWS)**.
 
-**🧠 Simple Analogy**
+---
 
-    **Before Cloud:** You had to buy and manage physical hardware.
+## 🧠 Simple Analogy
 
-    **With Cloud:** You rent computing resources over the internet—just like how you stream movies instead of owning DVDs.
+- **Before Cloud**: You had to buy and manage physical hardware.
+- **With Cloud**: You rent computing resources over the internet—just like how you stream movies instead of owning DVDs.
 
-**🔑 Key Characteristics**
-Feature	Description
-On-demand self-service	Instantly provision resources without human interaction.
-Scalability	Easily scale up/down based on demand.
-Pay-as-you-go	Only pay for what you use.
-Global availability	Access services worldwide.
-Managed services	Providers handle maintenance, security, backups, etc.
+---
 
-**🏗️ Types of Cloud Services**
+## 🔑 Key Characteristics
 
-**1. IaaS – Infrastructure as a Service**
+| Feature                   | Description                                                   |
+|---------------------------|---------------------------------------------------------------|
+| **On-demand self-service**| Instantly provision resources without human interaction.      |
+| **Scalability**           | Easily scale up/down based on demand.                         |
+| **Pay-as-you-go**         | Only pay for what you use.                                    |
+| **Global availability**   | Access services worldwide.                                    |
+| **Managed services**      | Providers handle maintenance, security, backups, etc.         |
 
-    Provides raw infrastructure: servers, storage, networking
+---
 
-    Example: AWS EC2, S3, VPC
+## 🏗️ Types of Cloud Services
 
-**2. PaaS – Platform as a Service**
+### 1. IaaS – *Infrastructure as a Service*
 
-    Provides a platform to build and deploy applications
+Provides raw infrastructure: servers, storage, networking  
+**Examples**: `AWS EC2`, `S3`, `VPC`
 
-    Example: AWS Elastic Beanstalk, AWS Lambda
+### 2. PaaS – *Platform as a Service*
 
-**3. SaaS – Software as a Service**
+Provides a platform to build and deploy applications  
+**Examples**: `AWS Elastic Beanstalk`, `AWS Lambda`
 
-    Fully functional software delivered via the internet
+### 3. SaaS – *Software as a Service*
 
-    Example: Gmail, Dropbox, Salesforce
+Fully functional software delivered via the internet  
+**Examples**: `Gmail`, `Dropbox`, `Salesforce`
 
-**☁️ Major Cloud Providers**
+---
 
-    Amazon Web Services (AWS)
+## ☁️ Major Cloud Providers
 
-    Microsoft Azure
+- **Amazon Web Services (AWS)**
+- **Microsoft Azure**
+- **Google Cloud Platform (GCP)**
 
-    Google Cloud Platform (GCP)
+---
+
+## ✅ What to Learn Next in AWS
+
+- AWS Global Infrastructure: **Regions**, **Availability Zones**
+- Core AWS Services:
+  - `EC2` – Virtual machines
+  - `S3` – Object storage
+  - `IAM` – Identity and Access Management
+- Try AWS Free Tier for hands-on experience
