@@ -3,6 +3,7 @@
 Cloud computing is the on-demand delivery of computing resources—like servers, storage, databases, networking, software, and analytics—over the internet, with pay-as-you-go pricing.
 
 Instead of buying, owning, and maintaining physical data centers or servers, you can rent computing power and storage from a cloud provider like Amazon Web Services (AWS).
+
 **🧠 Simple Analogy**
 
     **Before Cloud:** You had to buy and manage physical hardware.
@@ -16,7 +17,9 @@ Scalability	Easily scale up/down based on demand.
 Pay-as-you-go	Only pay for what you use.
 Global availability	Access services worldwide.
 Managed services	Providers handle maintenance, security, backups, etc.
+
 **🏗️ Types of Cloud Services**
+
 **1. IaaS – Infrastructure as a Service**
 
     Provides raw infrastructure: servers, storage, networking
